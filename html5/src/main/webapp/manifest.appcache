@@ -1,0 +1,13 @@
+# Application Cache
+CACHE MANIFEST
+
+CACHE:
+a.html
+
+NETWORK:
+b.html
+
+
+FALLBACK:
+
+
