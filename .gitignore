@@ -2,3 +2,5 @@
 */*.iml
 *.iml
 html5/target
+
+!.gitignore
